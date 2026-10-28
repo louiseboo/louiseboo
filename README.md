@@ -8,9 +8,9 @@
 
 #### 食品与产品 · Selected work
 
-| [食品产品卡](https://github.com/louiseboo/food-product-cards) | [食品工作台](https://github.com/louiseboo/site) |
+| [食品产品卡](https://github.com/louiseboo/food-product-cards) | [产品平台](https://github.com/louiseboo/product-platform) |
 | :--- | :--- |
-| 产品卡、菜单模板与配料拆解图，让产品信息更直观。 | 从食品资料整理到研发工作流，保留早期 CategoryLab 的探索。 |
+| 产品卡、菜单模板与配料拆解图，让产品信息更直观。 | 食品项目与研发工作的线上入口，连接项目管理、产品测试和产品研发。 |
 
 #### AI 与日常 · Learning by doing
 
